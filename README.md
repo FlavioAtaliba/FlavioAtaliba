@@ -2,7 +2,7 @@
 
 🎓 Atualmente, estou aprofundando meus conhecimentos como estudante de Análise e Desenvolvimento de Sistemas na Fatec Taquaritinga.
 
-🌱 Tenho dedicado meu tempo ao aprendizado e aprimoramento de uma variedade de linguagens e tecnologias, incluindo Java, JavaScript, C, C#, C++, SQL Server, Dart e R. Minha sede por conhecimento não tem limites!
+🌱Conhecimentos básico em  linguagens e tecnologias, incluindo Java, JavaScript, C, C#, C++, SQL Server, Dart e R. Minha sede por conhecimento não tem limites!
 
 💼 Estou entusiasmado com a possibilidade de contribuir para projetos inovadores e fazer parte de uma equipe que compartilha a mesma paixão por criar soluções excepcionais.
 
