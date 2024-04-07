@@ -1,16 +1,16 @@
-👋 Saudações! Sou o Flávio Ataliba, um apaixonado por programação em busca de desafios empolgantes.
+👋 Hello there! I'm Flávio Ataliba, a programming enthusiast with a focus on specializing in Swift.
 
-🎓 Atualmente, estou aprofundando meus conhecimentos como estudante de Análise e Desenvolvimento de Sistemas na Fatec Taquaritinga.
+🎓 Currently, I'm honing my skills as a systems developer at Fatec Taquaritinga, with a particular interest in the Swift language.
 
-🌱Conhecimentos básico em  linguagens e tecnologias, incluindo Java, JavaScript, C, C#, C++, SQL Server, Dart e R. Minha sede por conhecimento não tem limites!
+🌱 I have basic knowledge in various languages and technologies, including Java, JavaScript, C, C#, C++, SQL Server, and R. My passion for learning knows no bounds!
 
-💼 Estou entusiasmado com a possibilidade de contribuir para projetos inovadores e fazer parte de uma equipe que compartilha a mesma paixão por criar soluções excepcionais.
+💼 I'm eager to contribute to innovative projects and be part of a team that shares the same passion for creating exceptional solutions, especially in the Swift realm.
 
-🚀 Meu compromisso com o aprendizado contínuo, minha abordagem analítica para resolução de problemas e minha capacidade de trabalho em equipe me impulsionam constantemente.
+🚀 My commitment to continuous learning, analytical approach to problem-solving, and ability to work in teams are the pillars driving my journey.
 
-📫 Sinta-se à vontade para entrar em contato comigo por e-mail: flavioatalibajr@gmail.com. Adoraria discutir oportunidades de colaboração, projetos interessantes ou apenas para trocar ideias sobre o mundo da tecnologia.
+📫 Feel free to reach out to me via email at flavioatalibajr@gmail.com. I'm open to discussing collaboration opportunities, interesting projects, or just exchanging ideas about the world of programming, particularly Swift.
 
-Vamos juntos transformar ideias em realidade e fazer a diferença no mundo da programação!
+Let's join forces to turn ideas into reality and make a difference in the programming world with Swift!
 
 <!---
 FlavioAtaliba/FlavioAtaliba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
